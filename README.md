@@ -45,16 +45,6 @@ On Windows, you may need to **force close Python** from Task Manager (`Ctrl + Sh
 
 ---
 
-## 📷 Screenshots  
-
-### ⚠️ Confirmation Prompt  
-![Confirmation Prompt](https://via.placeholder.com/600x300?text=Are+you+sure%3F)  
-
-### 💥 CPU Under Heavy Load  
-![CPU Load](https://via.placeholder.com/600x300?text=CPU+100%25+Usage)  
-
----
-
 ## 🛠 Future Enhancements  
 - ✅ Add **GPU stress testing** (Coming soon)  
 - ✅ Implement **logging & reporting**  
