@@ -20,9 +20,8 @@ This tool is intended **for testing purposes only**. Running it may cause your s
 Make sure you have **Python 3.x** installed.  
 
 ```sh
-git clone https://github.com/yourusername/cpu-stresser.git
-cd cpu-stresser
-pip install -r requirements.txt  # (No dependencies required, but optional for expansion)
+git clone https://github.com/ogspiderx/CPU-Stresser.git
+cd CPU-Stresser
 ```
 
 ---
